@@ -1,0 +1,130 @@
+{
+  "pll_algorithms": {
+    "Aa-perm": {
+      "algorithm": "x R' U R' D2 R U' R' D2 R2 x'",
+      "permutation": "Clockwise corners",
+      "moves": 14,
+      "images": "Aa-perm.png"
+    },
+    "Ab-perm": {
+      "algorithm": "x R D' R U2 R' D R U2 R2 x'",
+      "permutation": "Counter clockwise corners",
+      "moves": 14,
+      "images": "Ab-perm.png"
+    },
+    "E-perm": {
+      "algorithm": "y x' R U' R' D R U R' D' R U R' D R U' R' D' x",
+      "permutation": "Corners only",
+      "moves": 19,
+      "images": "E-perm.png"
+    },
+    "F-perm": {
+      "algorithm": "y R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R",
+      "permutation": "Edges and corners",
+      "moves": 20,
+      "images": "F-perm.png"
+    },
+    "Ga-perm": {
+      "algorithm": "y R2 U R' U R' U' R U' R2 D U' R' U R D'",
+      "permutation": "Edges and corners",
+      "moves": 18,
+      "images": "Ga-perm.png"
+    },
+    "Gb-perm": {
+      "algorithm": "R' U' R U D' R2 U R' U R U' R U' R2 D",
+      "permutation": "Edges and corners",
+      "moves": 17,
+      "images": "Gb-perm.png"
+    },
+    "Gc-perm": {
+      "algorithm": "y R2 U' R U' R U R' U R2 D' U R U' R' D",
+      "permutation": "Edges and corners",
+      "moves": 18,
+      "images": "Gc-perm.png"
+    },
+    "Gd-perm": {
+      "algorithm": "y2 R U R' U' D R2 U' R U' R' U R' U R2 D'",
+      "permutation": "Edges and corners",
+      "moves": 19,
+      "images": "Gd-perm.png"
+    },
+    "H-perm": {
+      "algorithm": "M2' U M2' U2 M2' U M2'",
+      "permutation": "Edges only",
+      "moves": 12,
+      "images": "H-perm.png"
+    },
+    "Ja-perm": {
+      "algorithm": "y2 R' U2 R U R' U2' L U' R U L'",
+      "permutation": "Edges and corners",
+      "moves": 15,
+      "images": "Ja-perm.png"
+    },
+    "Jb-perm": {
+      "algorithm": "R U R' F' R U R' U' R' F R2 U' R' U'",
+      "permutation": "Edges and corners",
+      "moves": 15,
+      "images": "Jb-perm.png"
+    },
+    "Na-perm": {
+      "algorithm": "R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R",
+      "permutation": "Edges and corners",
+      "moves": 23,
+      "images": "Na-perm.png"
+    },
+    "Nb-perm": {
+      "algorithm": "R' U L' U2 R U' L R' U L' U2 R U' L U",
+      "permutation": "Edges and corners",
+      "moves": 17,
+      "images": "Nb-perm.png"
+    },
+    "Ra-perm": {
+      "algorithm": "y' R U' R' U' R U R D R' U' R D' R' U2 R'",
+      "permutation": "Edges and corners",
+      "moves": 17,
+      "images": "Ra-perm.png"
+    },
+    "Rb-perm": {
+      "algorithm": "R' U2 R U2 R' F R U R' U' R' F' R2' U'",
+      "permutation": "Edges and corners",
+      "moves": 17,
+      "images": "Rb-perm.png"
+    },
+    "T-perm": {
+      "algorithm": "R U R' U' R' F R2 U' R' U' R U R' F'",
+      "permutation": "Edges and corners",
+      "moves": 15,
+      "images": "T-perm.png"
+    },
+    "Ua-perm": {
+      "algorithm": "M2 U M' U2 M U M2",
+      "permutation": "Edges only",
+      "moves": 10,
+      "images": "Ua-perm.png"
+    },
+    "Ub-perm": {
+      "algorithm": "M2 U' M' U2 M U' M2",
+      "permutation": "Edges and corners",
+      "moves": 10,
+      "images": "Ub-perm.png"
+    },
+    "V-perm": {
+      "algorithm": "y R' U R' U' R D' R' D R3 U D' R2 U' R2' D R2",
+      "permutation": "Edges and corners",
+      "moves": 22,
+      "images": "V-perm.png"
+    },
+    "Y-perm": {
+      "algorithm": "F R U' R' U' R U R' F' R U R' U' R' F R F'",
+      "permutation": "Edges and corners",
+      "moves": 17,
+      "images": "Y-perm.png"
+    },
+    "Z-perm": {
+      "algorithm": "M2' U2 M U' M2' U' M2' U' M",
+      "permutation": "Edges and corners",
+      "moves": 13,
+      "images": "Z-perm.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PLL Search & Update</title>
+</head>
+<body>
+    <h1>PLL Search & Update</h1>
+    <form action="/searchPLL" method="get">
+        <p>Search PLL:</p>
+        <p><input type="text" name="query" /></p>
+        <p><input type="submit" value="Search" /></p>
+    </form>
+
+    <form action="/updatePLL" method="post">
+        <p>Update PLL:</p>
+        <p>PLL Name: <input type="text" name="pll_name" /></p>
+        <p>New Algorithm: <input type="text" name="new_algorithm" /></p>
+        <p><input type="submit" value="Update" /></p>
+    </form>
+</body>
+</html>
